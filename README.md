@@ -9,19 +9,19 @@ double: Stores fractional numbers, containing one or more decimals. Sufficient f
 char: Stores a single character/letter/number, or ASCII values.
 
 ## Basic Format Specifiers
-int: %d or %i
-float: %f
-double: %lf
-char: %c
+int: %d or %i  
+float: %f  
+double: %lf  
+char: %c  
 string: %s
 
 ## main() function
-All valid C programs must contain the main() function.
+All valid C programs must contain the main() function.  
 The code execution begins from the start of the main() function.
 
 ## printf function
-The printf() is a library function to send formatted output to the screen.
-The function prints the string inside quotations.
+The printf() is a library function to send formatted output to the screen.  
+The function prints the string inside quotations.  
 To use printf() in our program, we need to include stdio.h header file using the #include <stdio.h> statement.
 
 ## scanf function
