@@ -1,11 +1,11 @@
 # Basics
 C is a procedural programming language.
-It was initially developed by Dennis Ritchie as a system programming language to write an operating system. The main features of C language include low-level access to memory, simple set of keywords, and a clean style, these features make C language suitable for system programming like operating system or compiler development.
+ The main features of C language include low-level access to memory, simple set of keywords, and a clean style, these features make C language suitable for system programming like operating system or compiler development.
 
 ## Basic Data Types in C
-int: Stores whole numbers, without decimals
-\nfloat: Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits
-double: Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits
+int: Stores whole numbers, without decimals  
+float: Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits  
+double: Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits  
 char: Stores a single character/letter/number, or ASCII values.
 
 ## Basic Format Specifiers
