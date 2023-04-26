@@ -4,7 +4,7 @@ It was initially developed by Dennis Ritchie as a system programming language to
 
 ## Basic Data Types in C
 int: Stores whole numbers, without decimals
-float: Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits
+\nfloat: Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits
 double: Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits
 char: Stores a single character/letter/number, or ASCII values.
 
