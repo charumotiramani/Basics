@@ -16,13 +16,10 @@ char: %c
 string: %s
 
 ## main() function
-All valid C programs must contain the main() function.  
-The code execution begins from the start of the main() function.
+All valid C programs must contain the main() function.The code execution begins from the start of the main() function.
 
 ## printf function
-The printf() is a library function to send formatted output to the screen.  
-The function prints the string inside quotations.  
-To use printf() in our program, we need to include stdio.h header file using the #include <stdio.h> statement.
+The printf() is a library function to send formatted output to the screen.The function prints the string inside quotations.To use printf() in our program, we need to include stdio.h header file using the #include <stdio.h> statement.
 
 ## scanf function
 In C programming, scanf() is one of the commonly used function to take input from the user. The scanf() function reads formatted input from the standard input such as keyboards.
